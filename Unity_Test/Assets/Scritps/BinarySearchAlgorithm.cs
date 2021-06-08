@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//NOWA ZMIANA
 public class BinarySearchAlgorithm : MonoBehaviour
 {
     int min;
